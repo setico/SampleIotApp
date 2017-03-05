@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sample Iot App</string>
+    <string name="state_on">Allumer</string>
+    <string name="state_off">Eteindre</string>
+    <string name="lampe">Lampe 1</string>
+</resources>
