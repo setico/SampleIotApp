@@ -1,4 +1,5 @@
-Application Android things avec Firebase pour contrôler une lampe électrique.
+Cas domotique 1: Utilisation d'Android things avec Firebase sur une carte Raspberry Pi 3 pour interagir avec une lampe électrique.
+
 
 <h3>Materiels</h3>
 <ul>
